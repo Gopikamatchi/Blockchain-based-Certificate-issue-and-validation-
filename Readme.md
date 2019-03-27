@@ -52,15 +52,13 @@ single point failure, etc.,
     
     Project status
     
-          Recipient module (80% completed)
-          Issuer module (80% completed)
-          Validator module (90%completed)
-          Crypto Module (80% completed)
+          Recipient module (completed)
+          Issuer module ( completed)
+          Validator module (completed)
+          Crypto Module ( completed)
           IPFS Module (working successfully)
-    Pending works
-            Validator module (connecting to blockchain)
-            User interface 
-            
+          Validator module 
+    
 ## DEMO VIDEO
 
 https://drive.google.com/open?id=1l_GX3ufU9rOk9aDZq6zufeMZZXWBcHgd
